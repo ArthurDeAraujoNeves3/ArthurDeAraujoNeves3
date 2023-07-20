@@ -1,9 +1,11 @@
 ### Olá! 👋
 
-- 🖥️ Trabalhando apenas em projetos pessoais
-- 📚 Estudando cada vez mais sobre desenvolvimento web
+- 🖥️ Trabalhando apenas em projetos pessoais.
+- 📚 Estudando cada vez mais sobre desenvolvimento web.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurdearaujoneves3&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arthurdearaujoneves3&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
