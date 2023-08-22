@@ -1,4 +1,4 @@
-### Olá! 👋
+### Olá! 🤙
 
 - 🖥️ Trabalhando apenas em projetos pessoais.
 - 📚 Estudando cada vez mais sobre desenvolvimento web e mobile.
