@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 - 🖥️ Trabalhando apenas em projetos pessoais.
-- 📚 Estudando cada vez mais sobre desenvolvimento web.
+- 📚 Estudando cada vez mais sobre desenvolvimento web e mobile.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurdearaujoneves3&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arthurdearaujoneves3&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
