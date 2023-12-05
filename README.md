@@ -3,8 +3,10 @@
 - 🖥️ Trabalhando apenas em projetos pessoais.
 - 📚 Estudando cada vez mais sobre desenvolvimento web e mobile.
 
+<div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurDeAraujoNeves3&show_icons=true&theme=tokyonight">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurDeAraujoNeves3&layout=compact&show_icons=true&theme=tokyonight">
+</div>
 
 ##
 
