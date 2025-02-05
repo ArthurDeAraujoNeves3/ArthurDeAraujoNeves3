@@ -12,7 +12,7 @@
 
 ### Sobre mim 👨‍💻
 
-Apesar de sempre ter interesse na área da programação desde criança, comecei a realmente programar aos 15 anos quando entrei no curso de informática no ensino médio, onde aprendi **Python** como primeira linguagem, e hoje em dia, trabalho com o **desenvolvimento Web** principalmente com **React / Laravel**, também gosto bastante de **desenvolvimento Mobile**, criando alguns apps com **React Native**. No meu último ano escolar, participei da empresa [Sabão Juá](https://sabaojua.com.br/) como <ins>estagiário</ins> no desenvolvimento dos sistemas internos da empresa utilizando **PHP, Laravel e Bootstrap**. 
+Apesar de sempre ter interesse na área da programação desde criança, comecei a realmente programar aos 15 anos quando entrei no curso de informática no ensino médio, onde aprendi **Python** como primeira linguagem, e hoje em dia, trabalho com o **desenvolvimento Web** principalmente com **React / Laravel**, também gosto bastante de **desenvolvimento Mobile**, criando alguns apps com **React Native**. No meu último ano escolar, participei da empresa [Juá Limpezas](https://sabaojua.com.br/) como <ins>estagiário</ins> no desenvolvimento dos sistemas internos da empresa utilizando **PHP, Laravel e Bootstrap**, e atualmente, continuo na **Juá** mas como **Jovem Aprendiz** 
 
 Como já falado, desenvolvo minhas aplicações com **React e Laravel**, porém, meu principal foco é com **React**, utilizando principalmente **Typescript** e **Tailwind Css**. Já tive experiências com **Firebase** em um antigo projeto para a captação de visitantes, e ainda continuo utilizando mas apenas em projetos pessoais. Atualmente, pretendo utilizar outros bancos de dados como o **MongoDB** para futuros projetos.
 
